@@ -14,20 +14,20 @@
 
    **1.** Empower businesses to monitor and evaluate their sales activities and performance with precision and accuracy.
 
-   **2.**Identify sales patterns, trends, and outliers to devise targeted sales strategies and capitalize on opportunities.
+   **2.** Identify sales patterns, trends, and outliers to devise targeted sales strategies and capitalize on opportunities.
 
 - **Importance of analyzing sales data:** 
 
-   **1.**Track key performance indicators (KPIs) and Gain valuable insights into customer behavior and preferences to optimize marketing and sales efforts.
+   **1.** Track key performance indicators (KPIs) and Gain valuable insights into customer behavior and preferences to optimize marketing and sales efforts.
 
 
 - **Role of reports:**
 
-  **1.**Determine effective customer discounts based on historical buying patterns and customer segmentation.
+  **1.** Determine effective customer discounts based on historical buying patterns and customer segmentation.
 
-  **2.**Facilitate negotiations with consumers by presenting data-driven insights to support pricing decisions.
+  **2.** Facilitate negotiations with consumers by presenting data-driven insights to support pricing decisions.
 
-  **3.**Identify potential business expansion opportunities in promising countries by analyzing regional sales performance.
+  **3.** Identify potential business expansion opportunities in promising countries by analyzing regional sales performance.
 
 
 ## Finance Report :
@@ -35,27 +35,27 @@
 
 - **Project objective:** 
 
-  **1.**Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_  & _[Months](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ to evaluate financial performance over time and identify seasonal trends.
+  **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_  & _[Months](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ to evaluate financial performance over time and identify seasonal trends.
 
-  **2.**Create Profit and Loss (P&L) reports by _[Markets](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ to compare financial performance across different markets and identify areas for improvement.
+  **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ to compare financial performance across different markets and identify areas for improvement.
 
 - **Purpose of finance analytics:** 
 
-  **1.**Evaluate the financial health of the organization, identify revenue and cost trends, and measure profitability.
+  **1.** Evaluate the financial health of the organization, identify revenue and cost trends, and measure profitability.
 
-  **2.**Support data-driven decision-making by providing accurate financial insights to stakeholders.
+  **2.** Support data-driven decision-making by providing accurate financial insights to stakeholders.
 
 - **Importance of analyzing Finance data:** 
 
-  **1.**Benchmark against industry peers and previous periods to identify areas of competitive advantage or improvement.
+  **1.** Benchmark against industry peers and previous periods to identify areas of competitive advantage or improvement.
 
-  **2.**Lay the foundation for effective budgeting and forecasting to ensure financial stability and growth.
+  **2.** Lay the foundation for effective budgeting and forecasting to ensure financial stability and growth.
 
 - **Role of reports:**
 
-  **1.**Align financial planning with strategic goals by highlighting financial areas that require attention and investment.
+  **1.** Align financial planning with strategic goals by highlighting financial areas that require attention and investment.
 
-  **2.**Instill confidence in the organization's financial outlook by presenting clear and concise financial reports.
+  **2.** Instill confidence in the organization's financial outlook by presenting clear and concise financial reports.
 
 ## Technical Skills:
 
