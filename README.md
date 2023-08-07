@@ -5,7 +5,9 @@
 
 - **Project objective:** 
 
-   **1.** Create a _[customer performance report] to evaluate individual customer sales performance, preferences, and trends.
+   **1.** Create a _[customer performance report](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf)_to 
+     evaluate individual customer sales performance, preferences, and trends.
+  
    **2.** Conduct a comprehensive comparison between _[market performance and sales targets]  to assess the effectiveness of marketing strategies and set achievable sales goals.
 
 - **Purpose of sales analytics:** 
