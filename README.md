@@ -35,7 +35,7 @@
 
 - **Project objective:** 
 
-  **1.**Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_  & _[Months] to evaluate financial performance over time and identify seasonal trends.
+  **1.**Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_  & _[Months](https://github.com/surya755/Excel-Sales-and-Finance-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_ to evaluate financial performance over time and identify seasonal trends.
 
   **2.**Create Profit and Loss (P&L) reports by _[Markets] to compare financial performance across different markets and identify areas for improvement.
 
